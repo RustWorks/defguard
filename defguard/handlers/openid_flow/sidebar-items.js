@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["authorization","discovery_keys","openid_configuration","secure_authorization","token","userinfo"],"struct":["AuthenticationRequest","TokenRequest"]};
